@@ -2,7 +2,7 @@
 
 **Last Updated: July 2026**
 
-This End User License Agreement ("Agreement") governs the use of ThePoint QB Connector, an internal financial data integration and reporting tool operated by Habitat Royal Costa Rica SRL.
+This End User License Agreement ("Agreement") governs the use of ThePoint QB Connector, an internal financial data integration and reporting tool operated by 3-102-948878 SRL, under the trade name Habitat Royal.
 
 ## 1. Purpose
 
@@ -16,7 +16,7 @@ The application is not designed to create, modify, delete, or otherwise alter ac
 
 ## 3. Authorized Use
 
-The application is intended solely for internal use by Habitat Royal Costa Rica SRL and authorized personnel involved in the administration, financial reporting, and analysis of managed entities.
+The application is intended solely for internal use by 3-102-948878 SRL, operating under the trade name Habitat Royal, and authorized personnel involved in the administration, financial reporting, and analysis of managed entities.
 
 Access to the application and its financial data is restricted to authorized users.
 
@@ -40,7 +40,7 @@ While reasonable efforts are made to maintain data accuracy, users are responsib
 
 ## 7. Limitation of Liability
 
-Habitat Royal Costa Rica SRL shall not be liable for decisions made solely based on dashboards, analytical reports, or transformed data generated through the application without appropriate financial review and validation.
+3-102-948878 SRL shall not be liable for decisions made solely based on dashboards, analytical reports, or transformed data generated through the application without appropriate financial review and validation.
 
 ## 8. Termination of Access
 
@@ -48,5 +48,6 @@ Access to ThePoint QB Connector may be suspended or terminated at any time for s
 
 ## 9. Contact
 
-**Habitat Royal Costa Rica SRL**  
+**3-102-948878 SRL**  
+**Trade name: Habitat Royal**  
 Costa Rica
